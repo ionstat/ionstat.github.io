@@ -1,7 +1,7 @@
 title: cvless
 description: Jekyll theme for a beautiful online CV
 baseurl: ""
-url: https://ionstat.github.io
+url: https://www.ionstat.uk/
 
 #theme: cvless
 remote_theme: piazzai/cvless
@@ -12,10 +12,10 @@ tagshort: Jekyll theme
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
+  name: ionstat
+  email: hello@ionstat.com
+photo: assets/files/photo.png
+address: Earth
 phone: +1 234 567 890
 
 # profile links
