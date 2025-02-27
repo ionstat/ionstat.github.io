@@ -3,7 +3,8 @@ description: Jekyll theme for a beautiful online CV
 baseurl: ""
 url: https://ionstat.github.io
 
-theme: cvless
+#theme: cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
