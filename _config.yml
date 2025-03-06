@@ -1,5 +1,5 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Mathew West
+description: Experienced IT Professional | Hardware | Software | Development | ERP
 baseurl: ""
 url: https://www.ionstat.uk/
 
@@ -7,29 +7,25 @@ url: https://www.ionstat.uk/
 remote_theme: piazzai/cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Experienced IT Professional | Hardware | Software | Development | ERP
+tagshort: Mathew West
 
 # author settings
 author:
-  name: ionstat
-  email: hello@ionstat.com
+  name: Mathew West
+  email: hello@ionstat.uk
 photo: assets/files/photo.png
 address: Earth
-phone: +1 234 567 890
+phone: +44 300 180 0602
 
 # profile links
 profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
+  facebook: https://www.facebook.com/matwest92
+  mastodon: https://mastodon.social/@matwest92
+  bluesky: https://bsky.app/profile/w3s7.net
+  instagram: https://www.instagram.com/matwest92
+  linkedin: https://www.linkedin.com/in/mathewwest
+  github: https://github.com/ionstat
 
 # build settings
 permalink: pretty

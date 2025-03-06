@@ -5,14 +5,10 @@ title: Home
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi, I’m Mathew West, a technology leader, engineer, and problem solver passionate about IoT innovation and secure IT solutions. As the Owner & Technical Lead at Swivel Sensors Ltd, I develop cutting-edge sensor technology and provide expert IT consulting to businesses looking to scale their digital infrastructure securely.
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+With a strong background in network security, cloud computing, and embedded systems, I specialize in building robust, scalable platforms—whether it's architecting Python-based firmware, designing VueJS frontends, or optimizing enterprise IT operations. My work bridges technology and real-world problem-solving, ensuring businesses stay ahead in an ever-evolving digital landscape.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+If you're looking for IoT solutions, IT consulting, or technical leadership, let's connect!
 
 {% include archive.html %}
