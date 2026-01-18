@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ionstat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.ionstat.uk
+  * I am ionstat (https://keybase.io/ionstat) on keybase.
+  * I have a public key ASB-j4wh5AvUmfbPy46qQCapE6noCD8ITgBURHzmy5kRIwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e8f8c21e40bd499f6cfcb8eaa4026a913a9e8083f084e0054447ce6cb9911230a",
+      "host": "keybase.io",
+      "kid": "01207e8f8c21e40bd499f6cfcb8eaa4026a913a9e8083f084e0054447ce6cb9911230a",
+      "uid": "0a6e990227b32e583081a56bdcf7a619",
+      "username": "ionstat"
+    },
+    "merkle_root": {
+      "ctime": 1768741424,
+      "hash": "33d75a042e54a28d6325c0edadffb63c3ba8088792447242eb01bf0e9624fc39fe6cc29b09ae64f3f0c7dafdc573520a8d1b01b25f25815b0adec85658878819",
+      "hash_meta": "1233c03aab7988fc4b28465437676139fba577bdc8de0d7e7ce670178d84ca6d",
+      "seqno": 27353732
+    },
+    "service": {
+      "entropy": "CtSQIndJYKxe1ZW5kSpRvChj",
+      "hostname": "www.ionstat.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1768741595,
+  "expire_in": 504576000,
+  "prev": "f52b7e970f3be93751a468ce4480ec126aa7ad8c4c0aff2493a80ee51a37cb87",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfo+MIeQL1Jn2z8uOqkAmqROp6Ag/CE4AVER85suZESMKp3BheWxvYWTESpcCDMQg9St+lw876TdRpGjORIDsEmqnrYxMCv8kk6gO5Ro3y4fEINoatQYlek/n+zGovCnScBhrNBuF+o6l6tEB6KZpW6AqAgHCo3NpZ8RARppmhzw9ndiI4ljHcKMy7PCXXrDe4Y7uNqfdyGPEHu/cRXBg5dzFTTkvuWL6U8npFUONzyEZcudjphKpZHDGDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMr9fkfsJpVGdml3lqyIZGuvsw0zOh43bAR13qvp4jvmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ionstat
+
+==================================================================
